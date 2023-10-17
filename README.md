@@ -12,4 +12,3 @@ Press the github link to run the simulation scheduler
 
 This Project can be further enhanced by adding speed and new pacman graphics
 
-https://aravind-mca2023.github.io/Pac-Man/
